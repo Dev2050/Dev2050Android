@@ -20,11 +20,6 @@ import java.util.HashMap;
 
 import static android.content.ContentValues.TAG;
 
-
-/**
- * Created by Fissha on 25/05/2017.
- */
-
 public class WoltMainActivity extends AppCompatActivity {
 
 private  WoltProperties woltProperties;
@@ -42,7 +37,6 @@ private ListView lv;
         lv = (ListView) findViewById(R.id.list);
         new GetOpeningHours().execute();
     }
-
 
     public void parseJSONArray(JSONArray jsonArray, String day){
         if(jsonArray.length()!=0){
@@ -99,7 +93,6 @@ private ListView lv;
         }
     }
 
-
     public void defaultOpeningStatus(String day){
         openingHoursList = new HashMap<String, String>();
         woltProperties.setNewDay(day.concat(": ").concat("Closed"));
@@ -110,7 +103,6 @@ private ListView lv;
     public void commonTask(String day){
         String openingTime = woltProperties.getOpeningTime();
         String closingTime = woltProperties.getClosingTime();
-
         woltProperties.setNewDay(day.concat(": ").concat(openingTime).concat(" - ").concat(closingTime));
         //Adding the values into the ArrayList
         openingHoursList = new HashMap<String, String>();
