@@ -4,24 +4,25 @@ AndroidProjects
 #Instructions for MacOS and Linux users:
 
 For MacOS users please use the following links and follow the instructions to setup the environment.
+
 	a)Android Developers : https://developer.android.com/studio/install.html from here select Mac.
 	b)Relevant Site: http://www.makeuseof.com/tag/run-android-apps-mac-os/.
 
 For Linux users please use the link: https://www.howtoforge.com/tutorial/how-to-install-and-run-android-apk-on-linux-with-shashlik/
   and follow the instructions to setup the environment.
+ 
 	a)Android Developers : https://developer.android.com/studio/install.html from here select linux.
-	b)Relevant Site: https://www.howtoforge.com/tutorial/how-to-install-and-run-android-apk-on-linux-with-shashlik/
+	b)Relevant Site: https://www.howtoforge.com/tutorial/how-to-install-and-run-android-apk-on-linux-with-shashlik/ ,[->b]
 	Please Note: site "b" above is for Ubuntu users.
 
-Genereal Instruction on how to Set up your development environment for all operating system users can be found the
-  link: https://developer.android.com/topic/instant-apps/getting-started/setup.html.
+Genereal Instruction on how to Set up your development environment for all operating system users can be found the link: 	https://developer.android.com/topic/instant-apps/getting-started/setup.html.
 
-One can simply use the Android Package Kit (APK) which is the package file format used by the Android operating system 
-  for distribution and installation of mobile apps and middleware. Please use this link to build the app from the command Line:
-  https://developer.android.com/studio/build/building-cmdline.html.
+One can simply use the Android Package Kit (APK) which is the package file format used by the Android operating system for distribution and installation of mobile apps and middleware. 
+
+	Please use this link to build the app from the command Line: https://developer.android.com/studio/build/building-cmdline.html.
 
 Simply you can find the debug release apk file and install on your android mobile phone from "...\OpeningHours\app\build\outputs\apk"
-  or you can do the same using the following instruction:
+or you can do the same using the following instruction:
 
 Build a debug APK:
 
