@@ -1,11 +1,4 @@
-package com.wolt.fissha.openinghours;
-
-/**
- * Created by Fissha on 23/05/2017.
- */
-/**
- * Created by Fissha on 23/05/2017.
- */
+package com.wolt.devname.openinghours;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -21,18 +14,13 @@ public class WoltSplashScreen extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-
+        
         new Handler().postDelayed(new Runnable() {
-
-            /*
-             * Showing splash screen with a timer. This will be useful when you
-             * want to show case your app logo / company
-             */
 
             @Override
             public void run() {
 
-                // Starts WoltMain activity
+                // Starts WoltMainActivity
                 Intent i = new Intent(WoltSplashScreen.this, WoltMainActivity.class);
                 startActivity(i);
 
