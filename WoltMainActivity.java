@@ -1,4 +1,4 @@
-package com.wolt.fissha.openinghours;
+package com.wolt.devname.openinghours;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
