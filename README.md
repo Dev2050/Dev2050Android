@@ -15,13 +15,13 @@ For Linux users please use the link: https://www.howtoforge.com/tutorial/how-to-
 	b)Relevant Site: https://www.howtoforge.com/tutorial/how-to-install-and-run-android-apk-on-linux-with-shashlik/ ,[->b]
 	Please Note: site "b" above is for Ubuntu users.
 
-Genereal Instruction on how to Set up your development environment for all operating system users can be found the link: 	https://developer.android.com/topic/instant-apps/getting-started/setup.html.
+For All usersGenereal Instruction on how to Set up your development environment for all operating system users can be found at the link: https://developer.android.com/topic/instant-apps/getting-started/setup.html.
 
-One can simply use the Android Package Kit (APK) which is the package file format used by the Android operating system for distribution and installation of mobile apps and middleware. 
+During installation, One can simply use the Android Package Kit (APK) which is the package file format used by the Android operating system for distribution and installation of mobile apps and middleware. 
 
 	Please use this link to build the app from the command Line: https://developer.android.com/studio/build/building-cmdline.html.
 
-Simply you can find the debug release apk file and install on your android mobile phone from "...\OpeningHours\app\build\outputs\apk"
+OR simply you can find the debug release apk file and install on your android mobile phone from "...\OpeningHours\app\build\outputs\apk"
 or you can do the same using the following instruction:
 
 Build a debug APK:
