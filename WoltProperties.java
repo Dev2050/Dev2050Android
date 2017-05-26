@@ -1,4 +1,4 @@
-package com.wolt.fissha.openinghours;
+package com.wolt.devname.openinghours;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -23,8 +23,6 @@ public class WoltProperties {
     private String theSpecialDay;
     private boolean jsonArrayLengthEqOne = false;
     private boolean jsonArrayLengthGrTwo = false;
-
-
 
     public void setJsonArrayLengthEqOne(boolean jsonArrayLengthEqOne){
 
