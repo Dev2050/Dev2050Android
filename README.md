@@ -3,7 +3,7 @@ AndroidProjects
 
 #Instructions for MacOS and Linux users:
 
-#For MacOS users please use the following links and follow the instructions to setup the environment.
+For MacOS users please use the following links and follow the instructions to setup the environment.
 	a)Android Developers : https://developer.android.com/studio/install.html from here select Mac.
 	b)Relevant Site: http://www.makeuseof.com/tag/run-android-apps-mac-os/.
 
