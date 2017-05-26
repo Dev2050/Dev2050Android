@@ -8,12 +8,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.TimeZone;
 
-/**
- * Created by Fissha on 24/05/2017.
- */
-
-
-
 public class WoltProperties {
 
     private String openingTime;
