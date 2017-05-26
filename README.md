@@ -21,8 +21,7 @@ During installation, One can simply use the Android Package Kit (APK) which is t
 
 	Please use this link to build the app from the command Line: https://developer.android.com/studio/build/building-cmdline.html.
 
-OR simply you can find the debug release apk file and install on your android mobile phone from "...\OpeningHours\app\build\outputs\apk"
-or you can do the same using the following instruction:
+Another way is to use debug release apk file by installing it on your android mobile phone from"...\OpeningHours\app\build\outputs\apk" or you can do the same using the following instruction:
 
 Build a debug APK:
 
